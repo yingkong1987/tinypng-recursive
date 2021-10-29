@@ -1,10 +1,10 @@
 {
-  "name": "super-tinypng-recursive",
+  "name": "tinypng-recursive",
   "version": "1.0.0",
   "description": "Tinypng without \"Too many files uploaded at once\" limit",
   "main": "index.js",
   "bin": {
-    "super-tinypng-recursive": "./index.js"
+    "tinypng-recursive": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
