@@ -15,3 +15,6 @@ Open the terminal, go to the directory to be compressed, and enter:
 ```Shell
 tinypng-recursive
 ```
+
+## Demonstration 演示GIF
+![demo](assets/demo.gif)
