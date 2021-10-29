@@ -1,0 +1,26 @@
+{
+  "name": "super-tinypng-recursive",
+  "version": "1.0.0",
+  "description": "Tinypng without \"Too many files uploaded at once\" limit",
+  "main": "index.js",
+  "bin": {
+    "super-tinypng-recursive": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yingkong1987/tinypng-recursive.git"
+  },
+  "keywords": [
+    "tinypng",
+    "compress"
+  ],
+  "author": "yingkong1987",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yingkong1987/tinypng-recursive.git/issues"
+  },
+  "homepage": "https://github.com/yingkong1987/tinypng-recursive.git#readme"
+}
